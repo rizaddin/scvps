@@ -1,7 +1,7 @@
 
 
 ### INSTALL SCRIPT 
-<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/rizaddin/scvps/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
+<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/rizaddin/scvps/main/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
 
 ### PERINTAH UPDATE 
 <pre><code>wget https://raw.githubusercontent.com/rizaddin/scvps/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
