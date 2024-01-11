@@ -4,7 +4,7 @@
 <pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/rizaddin/scvps/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/rizaddin/scvps/rizki/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/rizaddin/scvps/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
